@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+sih_anc/
+venv/
+env/
+.venv/
+*.wav
+*.mp3
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
